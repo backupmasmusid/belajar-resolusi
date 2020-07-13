@@ -2,5 +2,5 @@ WPU Resolusi :
 - Konsisten untuk belajar programming 1 sehari
 - Belajar CRUD
 - Belajar HTML
-- Belajar Database
 - Belajar Javascript
+- Membuat Vlog
